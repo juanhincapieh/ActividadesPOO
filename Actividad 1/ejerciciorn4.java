@@ -14,6 +14,6 @@ public class ejerciciorn4 {
         System.out.println("Alberto: " + edAlber);
         System.out.println("Juan: " + edJuan);
         System.out.println("Ana: " + edAna);
-        System.out.println("Mamá: " + edMama);
+        System.out.println("Mama: " + edMama);
     }
 }
