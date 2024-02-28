@@ -1,4 +1,4 @@
-package actividad1;
+package main.java.ejercicioclase;
 
 public class ejerciciorn4 {
 
